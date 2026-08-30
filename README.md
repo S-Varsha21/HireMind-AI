@@ -2,7 +2,7 @@
 
 ### AI-Powered Placement Intelligence Platform
 
-HireMind AI is an AI-powered placement intelligence platform built with **R and Shiny** to help students understand their career readiness, analyze resumes, identify skill gaps, and discover suitable career paths.
+HireMind AI is an AI-powered placement intelligence platform built with **R and Shiny** to help cs engineering students understand their career readiness, analyze resumes, identify skill gaps, and discover suitable career paths.
 
 ---
 
